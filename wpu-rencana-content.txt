@@ -6,6 +6,7 @@
   -view
   -angular
   - Javascript
+- react
 -struktur data dasar
 -php framework
 -interview
